@@ -24,7 +24,7 @@ Melodies are the next steps for Bleeps. A Melody is a sequence of 32 Bleeps fine
 
 Like Nouns DAO, Bleeps DAO utilizes a fork of Compound Governance and its main governing body. The Bleep DAO treasury receives a share (5%) of the ETH proceeds from Melodies auctions. Each Bleep is an irrevocable member of the Bleep DAO and entitled to one vote in all governance matters. The DAO has full power over the future of Bleeps, new instruments (up to 16), evolution of Melodies and economic models.
 
-![Bleeps Ecosystem](./web/build/images/bleeps/Core_2.svg)
+![Bleeps Ecosystem](./web/static/images/bleeps/Core_2.svg)
 
 ## App Setup
 
