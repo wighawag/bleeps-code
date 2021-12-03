@@ -1,5 +1,0 @@
-.env*
-!.env*.default
-.newsh.json
-node_modules
-bleeps.code-workspace
